@@ -2,13 +2,34 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there,%20I'm%20Shwetha%20Mithun%20Mandikal&fontSize=36&fontColor=ffffff&animation=fadeIn)
 
-### ✨ Turning Data into Decisions ✨
+</div>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/smithunmandikal/Shwetha-Mithun/main/Shwetha.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Shwetha Mithun Mandikal"/>
+
+</td>
+<td align="left" width="500">
+
+### ✨ Shwetha Mithun Mandikal
+
+**Data Analyst | BI & ML Enthusiast**
+📍 Atlanta, Georgia
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smithunmandikal&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shwethamm)
 [![GitHub followers](https://img.shields.io/github/followers/smithunmandikal?style=flat-square&color=purple)](https://github.com/smithunmandikal)
 
-</div>
+*Passionate about turning data into actionable insights.*
+*Open to Data Analyst & Business Analyst roles!*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ---
 
