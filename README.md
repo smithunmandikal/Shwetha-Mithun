@@ -1,35 +1,19 @@
-<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/smithunmandikal/Shwetha-Mithun/main/Shwetha.jpg" width="180" style="border-radius:50%; margin-left:20px;"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there,%20I'm%20Shwetha%20Mithun%20Mandikal&fontSize=36&fontColor=ffffff&animation=fadeIn)
+# Hi there, I'm Shwetha Mithun Mandikal 👋
 
-</div>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="200">
-
-<img src="https://raw.githubusercontent.com/smithunmandikal/Shwetha-Mithun/main/Shwetha.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Shwetha Mithun Mandikal"/>
-
-</td>
-<td align="left" width="500">
-
-### ✨ Shwetha Mithun Mandikal
-
-**Data Analyst | BI & ML Enthusiast**
-📍 Atlanta, Georgia
+### 📊 Turning Data into Decisions
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smithunmandikal&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shwethamm)
 [![GitHub followers](https://img.shields.io/github/followers/smithunmandikal?style=flat-square&color=purple)](https://github.com/smithunmandikal)
 
-*Passionate about turning data into actionable insights.*
-*Open to Data Analyst & Business Analyst roles!*
+*I turn messy operations data into clear decisions that teams can act on.*
+*Open to **Data Analyst** & **Business Analyst** roles — full-time & internships!*
 
-</td>
-</tr>
-</table>
+📍 Atlanta, Georgia &nbsp;|&nbsp; 🌐 Open to Remote
 
-<div align="center">
+<br clear="right"/>
 
 ---
 
@@ -37,26 +21,29 @@
 
 ```yaml
 Name:           Shwetha Mithun Mandikal
-Title:          Data Analyst | BI & ML Enthusiast
-Location:       Atlanta, Georgia 🍑
-Education:      Ottawa University
+Title:          Data Analyst | Operations Analytics | BI & ML Enthusiast
+Location:       Atlanta, Georgia 🍑 | Open to Remote
+Education:      Executive MBA in Data Analytics @ Ottawa University
+                Post Graduate Diploma in Business Analytics @ Amity University
 Organization:   EcoServants
 Specialization: [SQL, Python, Tableau, Power BI, Machine Learning, AI]
+Domains:        Healthcare Analytics | AML & Compliance | Customer Experience
 Seeking:        Data Analyst | Business Analyst | Full-time | Internship
 LinkedIn:       linkedin.com/in/shwethamm
 ```
 
 ---
 
-## 💼 Professional Impact at a Glance
+## 💥 Professional Impact at a Glance
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Advanced-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Proficient-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+| Domain | Achievement |
+|--------|------------|
+| 🏥 **Healthcare** | Reminder accuracy **95% → 99.2%** · Manual audits reduced **80%** |
+| 🔒 **Compliance (Meta)** | False positives reduced **~40% (SRT)** · Escalation TAT improved **~30%** |
+| 📦 **Amazon Product Integrity** | MAYA image accuracy **+25%** · SLA breaches **-40%** · Manual reviews **-20%/week** |
+| 🤖 **Automation** | Analyst-driven automations via Idea Tunnel · Effort cut **15–20%** |
 
 </div>
 
@@ -66,33 +53,52 @@ LinkedIn:       linkedin.com/in/shwethamm
 
 <div align="center">
 
-**Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**Data Visualization & BI**
+**Analytics & Visualization**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+**Languages & Querying**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Platforms & Systems**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Epic](https://img.shields.io/badge/EPIC-EHR-red?style=flat-square)
+![Verint](https://img.shields.io/badge/Verint-Speech%20Analytics-purple?style=flat-square)
+![Avaya](https://img.shields.io/badge/Avaya-CMS-darkred?style=flat-square)
+
 **Machine Learning & AI**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 </div>
+
+---
+
+## 🏆 How I Work
+
+> **Start at the source** — Clean identifiers, map the journey, align definitions, validate every join.
+
+> **Build what teams will use** — Dashboards that drive decisions, not decoration.
+
+> **Improve in small loops** — Simple rules and automations that remove pain quickly.
+
+> **Partner deeply** — Operations, BI, engineering, and compliance in one conversation.
+
+---
+
+## 🌱 What I'm Exploring
+
+- 🏥 **Healthcare Analytics** — Connecting clinical and operational data for measurable outcomes
+- 🔒 **AML & Compliance Analytics** — Reducing noise, surfacing real risk
+- 💬 **Customer Experience Analytics** — Voice, chat, and transaction data unified
+- 🤖 **AI-assisted Operations** — Automations that free analysts to focus on insight
 
 ---
 
@@ -113,15 +119,6 @@ LinkedIn:       linkedin.com/in/shwethamm
 
 ---
 
-## 🌱 What I'm Currently Working On
-
-- 📊 Building end-to-end **data analytics dashboards** with Tableau & Power BI
-- 🤖 Exploring **Machine Learning** models for predictive analytics
-- 📚 Deepening expertise in **advanced SQL** and database optimization
-- 🌿 Contributing to data-driven impact at **EcoServants**
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -130,7 +127,7 @@ LinkedIn:       linkedin.com/in/shwethamm
 [![GitHub](https://img.shields.io/badge/GitHub-smithunmandikal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smithunmandikal)
 [![Location](https://img.shields.io/badge/Location-Atlanta,%20Georgia-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Atlanta,Georgia)
 
-💬 Open to **Data Analyst** and **Business Analyst** roles — full-time & internships!
+💬 **Tell me the one KPI you need to move — I'll show you how I'd approach it.**
 
 </div>
 
